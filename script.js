@@ -4,8 +4,8 @@
    ============================================================ */
 const CONFIG = {
   name: "Nguyễn Như Ngọc",
-  dateLabel: "16 JUNE",
-  stamp: "June 16",
+  dateLabel: "15 JUNE",
+  stamp: "June 15",
   // kode rahasia (jumlah angka = jumlah titik di layar = 6). clue: tanggal spesial
   password: "150612",
 
